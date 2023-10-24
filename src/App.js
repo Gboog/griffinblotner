@@ -5,15 +5,15 @@ function App() {
   return (
     
     <div className="App">
-       <nav>
+      
+      <header className="App-header">
+      <nav>
           <ul>
             <li>
               Home
             </li>
           </ul>
         </nav>
-      <header className="App-header">
-       
       </header>
     </div>
   );
