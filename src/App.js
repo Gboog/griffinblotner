@@ -16,11 +16,12 @@ function App() {
             </li>
           </ul>
         </nav>
-        <Button variant="primary">Primary</Button>{' '}
+        
 
 
 
       </header>
+      <Button variant="primary">Primary</Button>{' '}
     </div>
   );
 }
