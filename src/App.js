@@ -7,7 +7,7 @@ function App() {
   return (
     
     <div className="App">
-      
+       <link rel="icon" href="./public/favicon.ico" />
       <header className="App-header">
       <nav>
           <ul>
