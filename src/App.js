@@ -16,7 +16,7 @@ function App() {
             </li>
           </ul>
         </nav>
-        <Button variant="primary">Click Me!</Button>
+        <button type="button" class="btn btn-primary">Primary</button>
 
 
       </header>
