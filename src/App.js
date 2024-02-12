@@ -21,7 +21,7 @@ function App() {
 
 
       </header>
-      <Button variant="primary">Primary</Button>{' '}
+      <Button variant="primary">Yeet</Button>{' '}
     </div>
   );
 }
