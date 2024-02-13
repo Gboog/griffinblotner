@@ -15,7 +15,7 @@ function App() {
 
             </li>
             <li>
-              <a href="./About"></a>
+              <a href="./About">About</a>
             </li>
           </ul>
         </nav>
