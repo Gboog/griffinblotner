@@ -3,7 +3,7 @@ import './App.css';
 import Button from 'react-bootstrap/Button';
 
 
-function App() {
+function About() {
   return (
     
     <div className="About">
