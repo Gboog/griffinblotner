@@ -1,21 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 import Button from 'react-bootstrap/Button';
-import About from "./About.js";
+
+
 function App() {
   return (
     
-    <div className="App">
+    <div className="About">
        <link rel="icon" href="./public/favicon.ico" />
       <header className="App-header">
       <nav>
           <ul>
             <li>
-              <a href="./">Home</a>
-
-            </li>
-            <li>
-              <a href="./About"></a>
+              Home
             </li>
           </ul>
         </nav>
@@ -29,5 +26,5 @@ function App() {
   );
 }
 
-export default App;
+export default About;
 
